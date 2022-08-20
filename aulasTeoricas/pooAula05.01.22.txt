@@ -1,0 +1,33 @@
+﻿Objeto - Coisa material ou abstrata que pode ser percebida pelos sentidos descrita por meio das suas características, comportamentos e estado atual.
+
+	- ATRIBUTOS: Características do objeto.
+	-MÉTODOS: O que o objeto faz.
+	-ESTADO.
+Classe -  Molde para fazer o objeto.
+
+Instanciar – Nome do processo em que um objeto é criado a partir de uma classe.
+
+	Como instanciar um novo objeto
+
+	*classe = Caneta;
+Ex:
+	c1 = nova Caneta
+	c1.cor = ‘Azul’
+	c1.ponta = 0.5
+	c1.tampada = falso
+	c1.rabiscar()
+	
+	c2 = nova Caneta
+	c2.cor = ‘Vermelho’
+	c2.ponta = 1.0
+	c2.tampada = falso
+	c2.tampar()
+
+	Dois objetos diferentes feitos a partir de uma mesma classe.
+
+Definição mais formal de classe e objeto:
+
+Classe: Define os atributos e métodos comuns que serão compartilhados por um objeto.
+
+Objeto: É a instância de uma classe. 
+
